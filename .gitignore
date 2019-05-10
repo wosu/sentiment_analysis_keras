@@ -18,6 +18,7 @@ data/
 
 # .tfvars files
 *.tfvars
+*.hdf5
 *.json
 *.txt
 *.csv
