@@ -9,6 +9,8 @@
 **/summarys/
 model/
 data/
+**/model/
+**/data/
 
 # .tfstate files
 *.tfstate
@@ -16,7 +18,7 @@ data/
 
 # .tfvars files
 *.tfvars
-
+*.json
 *.txt
 *.csv
 task/.idea/*
